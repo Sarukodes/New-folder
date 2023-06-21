@@ -1,11 +1,10 @@
 const cheerio= require('cheerio');
-const Data= require('./data')
-class Loksewa extends Data{
-    title="ds";
-    image="sd";
+const Scrapper= require('./scrapper')
+class Loksewa extends Scrapper{
+   
     URL="https://psc.gov.np/category/notice-advertisement/all";
-    topic="loksewa";
-    category="ds";
+    name="loksewa";
+    
 
 
     saveData(){
@@ -16,7 +15,10 @@ class Loksewa extends Data{
             $('.table td').each((i,el) =>{
                 const Suchana = $(el).text().trim();
                 const link =$(el).find('a').attr("href");
-                data.push({Suchana,link});
+                const image = $(el).find('img').attr('src');
+                const title = $(el).find('.uk-margin-large-bottom').attr('h1');
+
+                data.push({Suchana,link,image, title});
             });
             this.save(data);
         })
