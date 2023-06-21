@@ -1,8 +1,12 @@
 const cheerio= require('cheerio');
-const Scrapper= require('./scrapper')
-class Loksewa extends Scrapper{
+const Data= require('./data')
+class Loksewa extends Data{
+    title="ds";
+    image="sd";
     URL="https://psc.gov.np/category/notice-advertisement/all";
-    name="loksewa";
+    topic="loksewa";
+    category="ds";
+
 
     saveData(){
         this.getData()

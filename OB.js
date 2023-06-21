@@ -9,8 +9,8 @@ class OB extends Scrapper{
         .then((html)=>{
             let data=[];
             const $ =cheerio.load(html);
-             $('#main-menu menu-item').each((i,el) =>{
-                const title = $(el).find('a').attr('title');
+             $('#navbarNavDropdown #main-menu li').each((i,el) =>{
+                const title = $(el).text();
                 const link = $(el).find('a').attr('href');
                 data.push({title,link});
             });

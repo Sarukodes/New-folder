@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "title": "गृह पेज",
+    "link": "https://ourbiratnagar.net/"
+  },
+  {
+    "title": "सम्पुर्ण समाचार",
+    "link": "https://ourbiratnagar.net/category/news"
+  },
+  {
+    "title": "शिक्षा खबर",
+    "link": "https://ourbiratnagar.net/category/%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be-%e0%a4%96%e0%a4%ac%e0%a4%b0"
+  },
+  {
+    "title": "विराटनगरको समाचार",
+    "link": "https://ourbiratnagar.net/category/news_of_biratnagar"
+  },
+  {
+    "title": "आर्थिक समाचार",
+    "link": "https://ourbiratnagar.net/category/%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%bf%e0%a4%95"
+  },
+  {
+    "title": "खेलकुद खबर",
+    "link": "https://ourbiratnagar.net/category/%e0%a4%96%e0%a5%87%e0%a4%b2%e0%a4%95%e0%a5%81%e0%a4%a6-%e0%a4%96%e0%a4%ac%e0%a4%b0"
+  },
+  {
+    "title": "लेख/रिपोर्ट",
+    "link": "https://ourbiratnagar.net/category/article"
+  }
+]

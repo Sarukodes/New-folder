@@ -1,10 +1,14 @@
 
+const file = require("./file");
 const fs = require('fs');
 const { default: axios } = require('axios');
 
-class Scrapper{
+class Data{
+    title="";
     URL="";
+    image="";
     topic="";
+    category="";
     async getData(){
         try {
             const data= await axios.get(this.URL);
@@ -35,4 +39,4 @@ class Scrapper{
     }
 }
 
-module.exports=Scrapper;
+module.exports=Data;

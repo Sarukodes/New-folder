@@ -1,18 +1,18 @@
 [
   {
     "country": "USA",
-    "cases": "107,246,335",
-    "Total_death": "1,167,381"
+    "cases": "107,248,397",
+    "Total_death": "1,167,387"
   },
   {
     "country": "India",
-    "cases": "44,993,579",
-    "Total_death": "531,897"
+    "cases": "44,993,671",
+    "Total_death": "531,898"
   },
   {
     "country": "France",
-    "cases": "40,124,889",
-    "Total_death": "167,548"
+    "cases": "40,126,960",
+    "Total_death": "167,593"
   },
   {
     "country": "Germany",
@@ -21,8 +21,8 @@
   },
   {
     "country": "Brazil",
-    "cases": "37,639,324",
-    "Total_death": "703,399"
+    "cases": "37,655,917",
+    "Total_death": "703,719"
   },
   {
     "country": "Japan",
@@ -46,8 +46,8 @@
   },
   {
     "country": "Russia",
-    "cases": "22,949,243",
-    "Total_death": "399,339"
+    "cases": "22,953,409",
+    "Total_death": "399,436"
   },
   {
     "country": "Turkey",
@@ -66,7 +66,7 @@
   },
   {
     "country": "Vietnam",
-    "cases": "11,619,451",
+    "cases": "11,619,588",
     "Total_death": "43,206"
   },
   {
@@ -96,13 +96,13 @@
   },
   {
     "country": "Indonesia",
-    "cases": "6,811,201",
-    "Total_death": "161,844"
+    "cases": "6,811,330",
+    "Total_death": "161,848"
   },
   {
     "country": "Poland",
-    "cases": "6,517,599",
-    "Total_death": "119,623"
+    "cases": "6,517,642",
+    "Total_death": "119,624"
   },
   {
     "country": "Colombia",
@@ -116,8 +116,8 @@
   },
   {
     "country": "Austria",
-    "cases": "6,080,088",
-    "Total_death": "22,523"
+    "cases": "6,080,238",
+    "Total_death": "22,526"
   },
   {
     "country": "Portugal",
@@ -131,7 +131,7 @@
   },
   {
     "country": "Chile",
-    "cases": "5,288,075",
+    "cases": "5,288,089",
     "Total_death": "64,497"
   },
   {
@@ -161,12 +161,12 @@
   },
   {
     "country": "Canada",
-    "cases": "4,684,456",
-    "Total_death": "52,751"
+    "cases": "4,686,867",
+    "Total_death": "52,804"
   },
   {
     "country": "Czechia",
-    "cases": "4,642,538",
+    "cases": "4,642,580",
     "Total_death": "42,807"
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "country": "Philippines",
-    "cases": "4,159,310",
+    "cases": "4,160,154",
     "Total_death": "66,482"
   },
   {
@@ -196,8 +196,8 @@
   },
   {
     "country": "Denmark",
-    "cases": "3,182,165",
-    "Total_death": "8,743"
+    "cases": "3,182,181",
+    "Total_death": "8,744"
   },
   {
     "country": "Hong Kong",
@@ -281,18 +281,18 @@
   },
   {
     "country": "Slovenia",
-    "cases": "1,344,191",
+    "cases": "1,344,197",
     "Total_death": "7,100"
   },
   {
     "country": "Lithuania",
-    "cases": "1,321,137",
+    "cases": "1,321,181",
     "Total_death": "9,691"
   },
   {
     "country": "Bulgaria",
-    "cases": "1,308,683",
-    "Total_death": "38,412"
+    "cases": "1,308,743",
+    "Total_death": "38,415"
   },
   {
     "country": "Morocco",
@@ -306,7 +306,7 @@
   },
   {
     "country": "Guatemala",
-    "cases": "1,257,291",
+    "cases": "1,257,753",
     "Total_death": "20,205"
   },
   {
@@ -321,7 +321,7 @@
   },
   {
     "country": "Bolivia",
-    "cases": "1,201,671",
+    "cases": "1,201,802",
     "Total_death": "22,387"
   },
   {
@@ -331,7 +331,7 @@
   },
   {
     "country": "Cuba",
-    "cases": "1,114,669",
+    "cases": "1,114,678",
     "Total_death": "8,530"
   },
   {
@@ -381,8 +381,8 @@
   },
   {
     "country": "Azerbaijan",
-    "cases": "831,894",
-    "Total_death": "10,281"
+    "cases": "831,902",
+    "Total_death": "10,282"
   },
   {
     "country": "Paraguay",
@@ -391,12 +391,12 @@
   },
   {
     "country": "Bahrain",
-    "cases": "722,320",
+    "cases": "722,341",
     "Total_death": "1,566"
   },
   {
     "country": "Sri Lanka",
-    "cases": "672,528",
+    "cases": "672,529",
     "Total_death": "16,877"
   },
   {
@@ -431,7 +431,7 @@
   },
   {
     "country": "Estonia",
-    "cases": "619,148",
+    "cases": "619,210",
     "Total_death": "3,001"
   },
   {
@@ -446,7 +446,7 @@
   },
   {
     "country": "Qatar",
-    "cases": "514,336",
+    "cases": "514,465",
     "Total_death": "690"
   },
   {
@@ -556,12 +556,12 @@
   },
   {
     "country": "Afghanistan",
-    "cases": "222,997",
-    "Total_death": "7,923"
+    "cases": "223,022",
+    "Total_death": "7,924"
   },
   {
     "country": "Laos",
-    "cases": "218,380",
+    "cases": "218,388",
     "Total_death": "758"
   },
   {
@@ -611,12 +611,12 @@
   },
   {
     "country": "Jamaica",
-    "cases": "155,063",
-    "Total_death": "3,550"
+    "cases": "155,169",
+    "Total_death": "3,555"
   },
   {
     "country": "Cambodia",
-    "cases": "138,887",
+    "cases": "138,890",
     "Total_death": "3,056"
   },
   {
@@ -631,8 +631,8 @@
   },
   {
     "country": "Malta",
-    "cases": "118,858",
-    "Total_death": "840"
+    "cases": "118,918",
+    "Total_death": "841"
   },
   {
     "country": "Barbados",
@@ -716,7 +716,7 @@
   },
   {
     "country": "Cabo Verde",
-    "cases": "64,030",
+    "cases": "64,043",
     "Total_death": "414"
   },
   {
@@ -791,7 +791,7 @@
   },
   {
     "country": "Togo",
-    "cases": "39,503",
+    "cases": "39,504",
     "Total_death": "290"
   },
   {
@@ -991,7 +991,7 @@
   },
   {
     "country": "Macao",
-    "cases": "10,615",
+    "cases": "10,817",
     "Total_death": "123"
   },
   {
@@ -1055,14 +1055,14 @@
     "Total_death": "48"
   },
   {
+    "country": "Sao Tome and Principe",
+    "cases": "6,588",
+    "Total_death": "80"
+  },
+  {
     "country": "Turks and Caicos",
     "cases": "6,588",
     "Total_death": "38"
-  },
-  {
-    "country": "Sao Tome and Principe",
-    "cases": "6,587",
-    "Total_death": "80"
   },
   {
     "country": "Palau",
@@ -1156,23 +1156,23 @@
   },
   {
     "country": "Total:",
-    "cases": "126,901,555",
-    "Total_death": "1,636,274"
+    "cases": "126,906,605",
+    "Total_death": "1,636,338"
   },
   {
     "country": "Total:",
-    "cases": "217,994,506",
-    "Total_death": "1,547,350"
+    "cases": "217,996,105",
+    "Total_death": "1,547,357"
   },
   {
     "country": "Total:",
-    "cases": "249,601,482",
-    "Total_death": "2,064,712"
+    "cases": "249,608,202",
+    "Total_death": "2,064,863"
   },
   {
     "country": "Total:",
-    "cases": "68,783,950",
-    "Total_death": "1,356,866"
+    "cases": "68,800,688",
+    "Total_death": "1,357,186"
   },
   {
     "country": "Total:",
@@ -1181,7 +1181,7 @@
   },
   {
     "country": "Total:",
-    "cases": "12,827,167",
+    "cases": "12,827,182",
     "Total_death": "258,791"
   },
   {
@@ -1191,28 +1191,1263 @@
   },
   {
     "country": "Total:",
-    "cases": "690,605,801",
-    "Total_death": "6,892,803"
+    "cases": "690,635,923",
+    "Total_death": "6,893,345"
   },
   {
     "country": "Asia",
-    "cases": "217,994,445",
+    "cases": "217,996,094",
+    "Total_death": "1,547,357"
+  },
+  {
+    "country": "North America",
+    "cases": "126,906,605",
+    "Total_death": "1,636,338"
+  },
+  {
+    "country": "Europe",
+    "cases": "249,608,202",
+    "Total_death": "2,064,863"
+  },
+  {
+    "country": "South America",
+    "cases": "68,800,688",
+    "Total_death": "1,357,186"
+  },
+  {
+    "country": "Oceania",
+    "cases": "14,496,420",
+    "Total_death": "28,795"
+  },
+  {
+    "country": "Africa",
+    "cases": "12,827,182",
+    "Total_death": "258,791"
+  },
+  {
+    "country": "",
+    "cases": "721",
+    "Total_death": "15"
+  },
+  {
+    "country": "World",
+    "cases": "690,635,912",
+    "Total_death": "6,893,345"
+  },
+  {
+    "country": "China",
+    "cases": "503,302",
+    "Total_death": "5,272"
+  },
+  {
+    "country": "USA",
+    "cases": "107,248,397",
+    "Total_death": "1,167,387"
+  },
+  {
+    "country": "India",
+    "cases": "44,993,671",
+    "Total_death": "531,898"
+  },
+  {
+    "country": "France",
+    "cases": "40,126,960",
+    "Total_death": "167,593"
+  },
+  {
+    "country": "Germany",
+    "cases": "38,428,685",
+    "Total_death": "174,352"
+  },
+  {
+    "country": "Brazil",
+    "cases": "37,655,917",
+    "Total_death": "703,719"
+  },
+  {
+    "country": "Japan",
+    "cases": "33,803,572",
+    "Total_death": "74,694"
+  },
+  {
+    "country": "S. Korea",
+    "cases": "32,018,486",
+    "Total_death": "34,960"
+  },
+  {
+    "country": "Italy",
+    "cases": "25,887,444",
+    "Total_death": "190,706"
+  },
+  {
+    "country": "UK",
+    "cases": "24,618,436",
+    "Total_death": "226,278"
+  },
+  {
+    "country": "Russia",
+    "cases": "22,953,409",
+    "Total_death": "399,436"
+  },
+  {
+    "country": "Turkey",
+    "cases": "17,232,066",
+    "Total_death": "102,174"
+  },
+  {
+    "country": "Spain",
+    "cases": "13,905,048",
+    "Total_death": "121,622"
+  },
+  {
+    "country": "Australia",
+    "cases": "11,672,767",
+    "Total_death": "21,463"
+  },
+  {
+    "country": "Vietnam",
+    "cases": "11,619,588",
+    "Total_death": "43,206"
+  },
+  {
+    "country": "Taiwan",
+    "cases": "10,239,998",
+    "Total_death": "19,005"
+  },
+  {
+    "country": "Argentina",
+    "cases": "10,056,300",
+    "Total_death": "130,514"
+  },
+  {
+    "country": "Netherlands",
+    "cases": "8,610,372",
+    "Total_death": "22,992"
+  },
+  {
+    "country": "Mexico",
+    "cases": "7,630,448",
+    "Total_death": "334,276"
+  },
+  {
+    "country": "Iran",
+    "cases": "7,612,352",
+    "Total_death": "146,291"
+  },
+  {
+    "country": "Indonesia",
+    "cases": "6,811,330",
+    "Total_death": "161,848"
+  },
+  {
+    "country": "Poland",
+    "cases": "6,517,642",
+    "Total_death": "119,624"
+  },
+  {
+    "country": "Colombia",
+    "cases": "6,369,916",
+    "Total_death": "142,780"
+  },
+  {
+    "country": "Greece",
+    "cases": "6,095,350",
+    "Total_death": "37,052"
+  },
+  {
+    "country": "Austria",
+    "cases": "6,080,238",
+    "Total_death": "22,526"
+  },
+  {
+    "country": "Portugal",
+    "cases": "5,590,870",
+    "Total_death": "26,824"
+  },
+  {
+    "country": "Ukraine",
+    "cases": "5,557,995",
+    "Total_death": "112,418"
+  },
+  {
+    "country": "Chile",
+    "cases": "5,288,089",
+    "Total_death": "64,497"
+  },
+  {
+    "country": "Malaysia",
+    "cases": "5,112,019",
+    "Total_death": "37,118"
+  },
+  {
+    "country": "Israel",
+    "cases": "4,827,640",
+    "Total_death": "12,552"
+  },
+  {
+    "country": "Belgium",
+    "cases": "4,800,759",
+    "Total_death": "34,364"
+  },
+  {
+    "country": "DPRK",
+    "cases": "4,772,813",
+    "Total_death": "74"
+  },
+  {
+    "country": "Thailand",
+    "cases": "4,749,910",
+    "Total_death": "34,292"
+  },
+  {
+    "country": "Canada",
+    "cases": "4,686,867",
+    "Total_death": "52,804"
+  },
+  {
+    "country": "Czechia",
+    "cases": "4,642,580",
+    "Total_death": "42,807"
+  },
+  {
+    "country": "Peru",
+    "cases": "4,507,896",
+    "Total_death": "220,695"
+  },
+  {
+    "country": "Switzerland",
+    "cases": "4,406,609",
+    "Total_death": "14,452"
+  },
+  {
+    "country": "Philippines",
+    "cases": "4,160,154",
+    "Total_death": "66,482"
+  },
+  {
+    "country": "South Africa",
+    "cases": "4,076,463",
+    "Total_death": "102,595"
+  },
+  {
+    "country": "Romania",
+    "cases": "3,406,899",
+    "Total_death": "68,224"
+  },
+  {
+    "country": "Denmark",
+    "cases": "3,182,181",
+    "Total_death": "8,744"
+  },
+  {
+    "country": "Hong Kong",
+    "cases": "2,909,483",
+    "Total_death": "13,819"
+  },
+  {
+    "country": "Sweden",
+    "cases": "2,711,671",
+    "Total_death": "24,489"
+  },
+  {
+    "country": "Serbia",
+    "cases": "2,543,185",
+    "Total_death": "18,057"
+  },
+  {
+    "country": "Singapore",
+    "cases": "2,481,404",
+    "Total_death": "1,727"
+  },
+  {
+    "country": "Iraq",
+    "cases": "2,465,545",
+    "Total_death": "25,375"
+  },
+  {
+    "country": "New Zealand",
+    "cases": "2,405,595",
+    "Total_death": "4,477"
+  },
+  {
+    "country": "Hungary",
+    "cases": "2,203,082",
+    "Total_death": "48,879"
+  },
+  {
+    "country": "Bangladesh",
+    "cases": "2,040,681",
+    "Total_death": "29,452"
+  },
+  {
+    "country": "Slovakia",
+    "cases": "1,866,857",
+    "Total_death": "21,167"
+  },
+  {
+    "country": "Georgia",
+    "cases": "1,843,707",
+    "Total_death": "17,087"
+  },
+  {
+    "country": "Jordan",
+    "cases": "1,746,997",
+    "Total_death": "14,122"
+  },
+  {
+    "country": "Ireland",
+    "cases": "1,713,340",
+    "Total_death": "9,028"
+  },
+  {
+    "country": "Pakistan",
+    "cases": "1,581,155",
+    "Total_death": "30,661"
+  },
+  {
+    "country": "Norway",
+    "cases": "1,485,364",
+    "Total_death": "5,556"
+  },
+  {
+    "country": "Finland",
+    "cases": "1,481,587",
+    "Total_death": "9,886"
+  },
+  {
+    "country": "Kazakhstan",
+    "cases": "1,411,831",
+    "Total_death": "13,848"
+  },
+  {
+    "country": "Slovenia",
+    "cases": "1,344,197",
+    "Total_death": "7,100"
+  },
+  {
+    "country": "Lithuania",
+    "cases": "1,321,181",
+    "Total_death": "9,691"
+  },
+  {
+    "country": "Bulgaria",
+    "cases": "1,308,743",
+    "Total_death": "38,415"
+  },
+  {
+    "country": "Morocco",
+    "cases": "1,274,180",
+    "Total_death": "16,297"
+  },
+  {
+    "country": "Croatia",
+    "cases": "1,273,959",
+    "Total_death": "18,269"
+  },
+  {
+    "country": "Guatemala",
+    "cases": "1,257,753",
+    "Total_death": "20,205"
+  },
+  {
+    "country": "Lebanon",
+    "cases": "1,238,411",
+    "Total_death": "10,932"
+  },
+  {
+    "country": "Costa Rica",
+    "cases": "1,234,384",
+    "Total_death": "9,382"
+  },
+  {
+    "country": "Bolivia",
+    "cases": "1,201,802",
+    "Total_death": "22,387"
+  },
+  {
+    "country": "Tunisia",
+    "cases": "1,153,361",
+    "Total_death": "29,423"
+  },
+  {
+    "country": "Cuba",
+    "cases": "1,114,678",
+    "Total_death": "8,530"
+  },
+  {
+    "country": "UAE",
+    "cases": "1,067,030",
+    "Total_death": "2,349"
+  },
+  {
+    "country": "Ecuador",
+    "cases": "1,062,275",
+    "Total_death": "36,019"
+  },
+  {
+    "country": "Panama",
+    "cases": "1,042,631",
+    "Total_death": "8,634"
+  },
+  {
+    "country": "Uruguay",
+    "cases": "1,038,774",
+    "Total_death": "7,634"
+  },
+  {
+    "country": "Mongolia",
+    "cases": "1,010,034",
+    "Total_death": "2,179"
+  },
+  {
+    "country": "Nepal",
+    "cases": "1,003,361",
+    "Total_death": "12,031"
+  },
+  {
+    "country": "Belarus",
+    "cases": "994,037",
+    "Total_death": "7,118"
+  },
+  {
+    "country": "Latvia",
+    "cases": "978,074",
+    "Total_death": "6,377"
+  },
+  {
+    "country": "Saudi Arabia",
+    "cases": "841,469",
+    "Total_death": "9,646"
+  },
+  {
+    "country": "Azerbaijan",
+    "cases": "831,902",
+    "Total_death": "10,282"
+  },
+  {
+    "country": "Paraguay",
+    "cases": "811,204",
+    "Total_death": "19,961"
+  },
+  {
+    "country": "Bahrain",
+    "cases": "722,341",
+    "Total_death": "1,566"
+  },
+  {
+    "country": "Sri Lanka",
+    "cases": "672,529",
+    "Total_death": "16,877"
+  },
+  {
+    "country": "Kuwait",
+    "cases": "665,955",
+    "Total_death": "2,570"
+  },
+  {
+    "country": "Dominican Republic",
+    "cases": "661,596",
+    "Total_death": "4,384"
+  },
+  {
+    "country": "Cyprus",
+    "cases": "660,854",
+    "Total_death": "1,364"
+  },
+  {
+    "country": "Myanmar",
+    "cases": "639,740",
+    "Total_death": "19,494"
+  },
+  {
+    "country": "Palestine",
+    "cases": "621,008",
+    "Total_death": "5,404"
+  },
+  {
+    "country": "Moldova",
+    "cases": "620,656",
+    "Total_death": "12,123"
+  },
+  {
+    "country": "Estonia",
+    "cases": "619,210",
+    "Total_death": "3,001"
+  },
+  {
+    "country": "Venezuela",
+    "cases": "552,695",
+    "Total_death": "5,856"
+  },
+  {
+    "country": "Egypt",
+    "cases": "516,023",
+    "Total_death": "24,613"
+  },
+  {
+    "country": "Qatar",
+    "cases": "514,465",
+    "Total_death": "690"
+  },
+  {
+    "country": "Libya",
+    "cases": "507,266",
+    "Total_death": "6,437"
+  },
+  {
+    "country": "Ethiopia",
+    "cases": "500,920",
+    "Total_death": "7,574"
+  },
+  {
+    "country": "Réunion",
+    "cases": "486,588",
+    "Total_death": "921"
+  },
+  {
+    "country": "Honduras",
+    "cases": "472,619",
+    "Total_death": "11,116"
+  },
+  {
+    "country": "Armenia",
+    "cases": "449,213",
+    "Total_death": "8,750"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "cases": "403,030",
+    "Total_death": "16,348"
+  },
+  {
+    "country": "Oman",
+    "cases": "399,449",
+    "Total_death": "4,628"
+  },
+  {
+    "country": "North Macedonia",
+    "cases": "348,281",
+    "Total_death": "9,677"
+  },
+  {
+    "country": "Zambia",
+    "cases": "345,961",
+    "Total_death": "4,060"
+  },
+  {
+    "country": "Kenya",
+    "cases": "343,312",
+    "Total_death": "5,688"
+  },
+  {
+    "country": "Albania",
+    "cases": "334,726",
+    "Total_death": "3,602"
+  },
+  {
+    "country": "Botswana",
+    "cases": "329,953",
+    "Total_death": "2,801"
+  },
+  {
+    "country": "Luxembourg",
+    "cases": "319,959",
+    "Total_death": "1,232"
+  },
+  {
+    "country": "Brunei",
+    "cases": "308,777",
+    "Total_death": "225"
+  },
+  {
+    "country": "Montenegro",
+    "cases": "291,921",
+    "Total_death": "2,828"
+  },
+  {
+    "country": "Algeria",
+    "cases": "271,851",
+    "Total_death": "6,881"
+  },
+  {
+    "country": "Nigeria",
+    "cases": "266,675",
+    "Total_death": "3,155"
+  },
+  {
+    "country": "Zimbabwe",
+    "cases": "265,289",
+    "Total_death": "5,702"
+  },
+  {
+    "country": "Uzbekistan",
+    "cases": "253,662",
+    "Total_death": "1,637"
+  },
+  {
+    "country": "Mozambique",
+    "cases": "233,417",
+    "Total_death": "2,243"
+  },
+  {
+    "country": "Martinique",
+    "cases": "229,975",
+    "Total_death": "1,102"
+  },
+  {
+    "country": "Afghanistan",
+    "cases": "223,022",
+    "Total_death": "7,924"
+  },
+  {
+    "country": "Laos",
+    "cases": "218,380",
+    "Total_death": "758"
+  },
+  {
+    "country": "Iceland",
+    "cases": "209,191",
+    "Total_death": "229"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "cases": "206,890",
+    "Total_death": "2,991"
+  },
+  {
+    "country": "Guadeloupe",
+    "cases": "202,836",
+    "Total_death": "1,017"
+  },
+  {
+    "country": "El Salvador",
+    "cases": "201,785",
+    "Total_death": "4,230"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "cases": "191,496",
+    "Total_death": "4,390"
+  },
+  {
+    "country": "Maldives",
+    "cases": "186,683",
+    "Total_death": "316"
+  },
+  {
+    "country": "Ghana",
+    "cases": "171,657",
+    "Total_death": "1,462"
+  },
+  {
+    "country": "Namibia",
+    "cases": "171,310",
+    "Total_death": "4,091"
+  },
+  {
+    "country": "Uganda",
+    "cases": "170,775",
+    "Total_death": "3,632"
+  },
+  {
+    "country": "Jamaica",
+    "cases": "155,169",
+    "Total_death": "3,555"
+  },
+  {
+    "country": "Cambodia",
+    "cases": "138,887",
+    "Total_death": "3,056"
+  },
+  {
+    "country": "Rwanda",
+    "cases": "133,194",
+    "Total_death": "1,468"
+  },
+  {
+    "country": "Cameroon",
+    "cases": "125,087",
+    "Total_death": "1,972"
+  },
+  {
+    "country": "Malta",
+    "cases": "118,918",
+    "Total_death": "841"
+  },
+  {
+    "country": "Barbados",
+    "cases": "107,794",
+    "Total_death": "593"
+  },
+  {
+    "country": "Angola",
+    "cases": "105,384",
+    "Total_death": "1,934"
+  },
+  {
+    "country": "Channel Islands",
+    "cases": "101,717",
+    "Total_death": "228"
+  },
+  {
+    "country": "French Guiana",
+    "cases": "98,041",
+    "Total_death": "420"
+  },
+  {
+    "country": "DRC",
+    "cases": "96,890",
+    "Total_death": "1,467"
+  },
+  {
+    "country": "Senegal",
+    "cases": "88,999",
+    "Total_death": "1,971"
+  },
+  {
+    "country": "Malawi",
+    "cases": "88,728",
+    "Total_death": "2,686"
+  },
+  {
+    "country": "Ivory Coast",
+    "cases": "88,331",
+    "Total_death": "835"
+  },
+  {
+    "country": "Suriname",
+    "cases": "82,563",
+    "Total_death": "1,406"
+  },
+  {
+    "country": "New Caledonia",
+    "cases": "79,922",
+    "Total_death": "314"
+  },
+  {
+    "country": "French Polynesia",
+    "cases": "78,596",
+    "Total_death": "649"
+  },
+  {
+    "country": "Eswatini",
+    "cases": "74,670",
+    "Total_death": "1,425"
+  },
+  {
+    "country": "Guyana",
+    "cases": "73,286",
+    "Total_death": "1,298"
+  },
+  {
+    "country": "Belize",
+    "cases": "70,782",
+    "Total_death": "688"
+  },
+  {
+    "country": "Fiji",
+    "cases": "69,072",
+    "Total_death": "885"
+  },
+  {
+    "country": "Madagascar",
+    "cases": "68,289",
+    "Total_death": "1,425"
+  },
+  {
+    "country": "Cabo Verde",
+    "cases": "64,043",
+    "Total_death": "414"
+  },
+  {
+    "country": "Sudan",
+    "cases": "63,993",
+    "Total_death": "5,046"
+  },
+  {
+    "country": "Mauritania",
+    "cases": "63,715",
+    "Total_death": "997"
+  },
+  {
+    "country": "Bhutan",
+    "cases": "62,672",
+    "Total_death": "21"
+  },
+  {
+    "country": "Syria",
+    "cases": "57,652",
+    "Total_death": "3,165"
+  },
+  {
+    "country": "Burundi",
+    "cases": "53,954",
+    "Total_death": "38"
+  },
+  {
+    "country": "Seychelles",
+    "cases": "50,937",
+    "Total_death": "172"
+  },
+  {
+    "country": "Gabon",
+    "cases": "48,992",
+    "Total_death": "307"
+  },
+  {
+    "country": "Andorra",
+    "cases": "48,015",
+    "Total_death": "165"
+  },
+  {
+    "country": "Papua New Guinea",
+    "cases": "46,864",
+    "Total_death": "670"
+  },
+  {
+    "country": "Curaçao",
+    "cases": "45,986",
+    "Total_death": "295"
+  },
+  {
+    "country": "Aruba",
+    "cases": "44,200",
+    "Total_death": "236"
+  },
+  {
+    "country": "Tanzania",
+    "cases": "43,078",
+    "Total_death": "846"
+  },
+  {
+    "country": "Mauritius",
+    "cases": "42,642",
+    "Total_death": "1,051"
+  },
+  {
+    "country": "Mayotte",
+    "cases": "42,027",
+    "Total_death": "188"
+  },
+  {
+    "country": "Togo",
+    "cases": "39,504",
+    "Total_death": "290"
+  },
+  {
+    "country": "Guinea",
+    "cases": "38,563",
+    "Total_death": "468"
+  },
+  {
+    "country": "Bahamas",
+    "cases": "38,084",
+    "Total_death": "844"
+  },
+  {
+    "country": "Isle of Man",
+    "cases": "38,008",
+    "Total_death": "116"
+  },
+  {
+    "country": "Lesotho",
+    "cases": "34,790",
+    "Total_death": "723"
+  },
+  {
+    "country": "Faeroe Islands",
+    "cases": "34,658",
+    "Total_death": "28"
+  },
+  {
+    "country": "Haiti",
+    "cases": "34,301",
+    "Total_death": "860"
+  },
+  {
+    "country": "Mali",
+    "cases": "33,151",
+    "Total_death": "743"
+  },
+  {
+    "country": "Cayman Islands",
+    "cases": "31,472",
+    "Total_death": "37"
+  },
+  {
+    "country": "Saint Lucia",
+    "cases": "30,052",
+    "Total_death": "409"
+  },
+  {
+    "country": "Benin",
+    "cases": "28,014",
+    "Total_death": "163"
+  },
+  {
+    "country": "Somalia",
+    "cases": "27,334",
+    "Total_death": "1,361"
+  },
+  {
+    "country": "Micronesia",
+    "cases": "26,459",
+    "Total_death": "65"
+  },
+  {
+    "country": "Congo",
+    "cases": "25,375",
+    "Total_death": "386"
+  },
+  {
+    "country": "Solomon Islands",
+    "cases": "24,575",
+    "Total_death": "153"
+  },
+  {
+    "country": "San Marino",
+    "cases": "24,319",
+    "Total_death": "125"
+  },
+  {
+    "country": "Timor-Leste",
+    "cases": "23,456",
+    "Total_death": "138"
+  },
+  {
+    "country": "Burkina Faso",
+    "cases": "22,056",
+    "Total_death": "396"
+  },
+  {
+    "country": "Liechtenstein",
+    "cases": "21,446",
+    "Total_death": "94"
+  },
+  {
+    "country": "Gibraltar",
+    "cases": "20,550",
+    "Total_death": "113"
+  },
+  {
+    "country": "Grenada",
+    "cases": "19,693",
+    "Total_death": "238"
+  },
+  {
+    "country": "Bermuda",
+    "cases": "18,860",
+    "Total_death": "165"
+  },
+  {
+    "country": "Nicaragua",
+    "cases": "18,491",
+    "Total_death": "225"
+  },
+  {
+    "country": "South Sudan",
+    "cases": "18,368",
+    "Total_death": "138"
+  },
+  {
+    "country": "Tajikistan",
+    "cases": "17,786",
+    "Total_death": "125"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "cases": "17,229",
+    "Total_death": "183"
+  },
+  {
+    "country": "Tonga",
+    "cases": "16,817",
+    "Total_death": "13"
+  },
+  {
+    "country": "Monaco",
+    "cases": "16,814",
+    "Total_death": "67"
+  },
+  {
+    "country": "Samoa",
+    "cases": "16,763",
+    "Total_death": "31"
+  },
+  {
+    "country": "Marshall Islands",
+    "cases": "16,098",
+    "Total_death": "17"
+  },
+  {
+    "country": "Dominica",
+    "cases": "15,760",
+    "Total_death": "74"
+  },
+  {
+    "country": "Djibouti",
+    "cases": "15,690",
+    "Total_death": "189"
+  },
+  {
+    "country": "CAR",
+    "cases": "15,368",
+    "Total_death": "113"
+  },
+  {
+    "country": "Gambia",
+    "cases": "12,626",
+    "Total_death": "372"
+  },
+  {
+    "country": "Saint Martin",
+    "cases": "12,303",
+    "Total_death": "63"
+  },
+  {
+    "country": "Vanuatu",
+    "cases": "12,019",
+    "Total_death": "14"
+  },
+  {
+    "country": "Greenland",
+    "cases": "11,971",
+    "Total_death": "21"
+  },
+  {
+    "country": "Yemen",
+    "cases": "11,945",
+    "Total_death": "2,159"
+  },
+  {
+    "country": "Caribbean Netherlands",
+    "cases": "11,682",
+    "Total_death": "38"
+  },
+  {
+    "country": "Sint Maarten",
+    "cases": "11,051",
+    "Total_death": "92"
+  },
+  {
+    "country": "Macao",
+    "cases": "10,817",
+    "Total_death": "123"
+  },
+  {
+    "country": "Eritrea",
+    "cases": "10,189",
+    "Total_death": "103"
+  },
+  {
+    "country": "Niger",
+    "cases": "9,931",
+    "Total_death": "312"
+  },
+  {
+    "country": "St. Vincent Grenadines",
+    "cases": "9,631",
+    "Total_death": "124"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "cases": "9,614",
+    "Total_death": "177"
+  },
+  {
+    "country": "Comoros",
+    "cases": "9,109",
+    "Total_death": "161"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "cases": "9,106",
+    "Total_death": "146"
+  },
+  {
+    "country": "Liberia",
+    "cases": "8,090",
+    "Total_death": "295"
+  },
+  {
+    "country": "Sierra Leone",
+    "cases": "7,762",
+    "Total_death": "126"
+  },
+  {
+    "country": "Chad",
+    "cases": "7,701",
+    "Total_death": "194"
+  },
+  {
+    "country": "British Virgin Islands",
+    "cases": "7,305",
+    "Total_death": "64"
+  },
+  {
+    "country": "Cook Islands",
+    "cases": "7,142",
+    "Total_death": "2"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "cases": "6,606",
+    "Total_death": "48"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "cases": "6,588",
+    "Total_death": "80"
+  },
+  {
+    "country": "Turks and Caicos",
+    "cases": "6,588",
+    "Total_death": "38"
+  },
+  {
+    "country": "Palau",
+    "cases": "6,015",
+    "Total_death": "9"
+  },
+  {
+    "country": "St. Barth",
+    "cases": "5,494",
+    "Total_death": "6"
+  },
+  {
+    "country": "Nauru",
+    "cases": "5,393",
+    "Total_death": "1"
+  },
+  {
+    "country": "Kiribati",
+    "cases": "5,037",
+    "Total_death": "24"
+  },
+  {
+    "country": "Anguilla",
+    "cases": "3,904",
+    "Total_death": "12"
+  },
+  {
+    "country": "Wallis and Futuna",
+    "cases": "3,550",
+    "Total_death": "8"
+  },
+  {
+    "country": "Saint Pierre Miquelon",
+    "cases": "3,452",
+    "Total_death": "2"
+  },
+  {
+    "country": "Tuvalu",
+    "cases": "2,911",
+    "Total_death": ""
+  },
+  {
+    "country": "Saint Helena",
+    "cases": "2,166",
+    "Total_death": ""
+  },
+  {
+    "country": "Falkland Islands",
+    "cases": "1,930",
+    "Total_death": ""
+  },
+  {
+    "country": "Montserrat",
+    "cases": "1,403",
+    "Total_death": "8"
+  },
+  {
+    "country": "Niue",
+    "cases": "820",
+    "Total_death": ""
+  },
+  {
+    "country": "Diamond Princess",
+    "cases": "712",
+    "Total_death": "13"
+  },
+  {
+    "country": "Vatican City",
+    "cases": "29",
+    "Total_death": ""
+  },
+  {
+    "country": "Western Sahara",
+    "cases": "10",
+    "Total_death": "1"
+  },
+  {
+    "country": "MS Zaandam",
+    "cases": "9",
+    "Total_death": "2"
+  },
+  {
+    "country": "Tokelau",
+    "cases": "5",
+    "Total_death": ""
+  },
+  {
+    "country": "Total:",
+    "cases": "217,996,094",
+    "Total_death": "1,547,357"
+  },
+  {
+    "country": "Total:",
+    "cases": "126,906,605",
+    "Total_death": "1,636,338"
+  },
+  {
+    "country": "Total:",
+    "cases": "249,608,202",
+    "Total_death": "2,064,863"
+  },
+  {
+    "country": "Total:",
+    "cases": "68,800,688",
+    "Total_death": "1,357,186"
+  },
+  {
+    "country": "Total:",
+    "cases": "14,496,420",
+    "Total_death": "28,795"
+  },
+  {
+    "country": "Total:",
+    "cases": "12,827,182",
+    "Total_death": "258,791"
+  },
+  {
+    "country": "Total:",
+    "cases": "721",
+    "Total_death": "15"
+  },
+  {
+    "country": "Total:",
+    "cases": "690,635,912",
+    "Total_death": "6,893,345"
+  },
+  {
+    "country": "Asia",
+    "cases": "217,994,952",
     "Total_death": "1,547,349"
   },
   {
     "country": "North America",
-    "cases": "126,901,555",
-    "Total_death": "1,636,274"
+    "cases": "126,904,255",
+    "Total_death": "1,636,336"
   },
   {
     "country": "Europe",
-    "cases": "249,601,482",
-    "Total_death": "2,064,712"
+    "cases": "249,601,487",
+    "Total_death": "2,064,715"
   },
   {
     "country": "South America",
-    "cases": "68,783,950",
-    "Total_death": "1,356,866"
+    "cases": "68,798,173",
+    "Total_death": "1,357,140"
   },
   {
     "country": "Oceania",
@@ -1231,8 +2466,8 @@
   },
   {
     "country": "World",
-    "cases": "690,605,740",
-    "Total_death": "6,892,802"
+    "cases": "690,623,175",
+    "Total_death": "6,893,141"
   },
   {
     "country": "China",
@@ -1241,8 +2476,8 @@
   },
   {
     "country": "USA",
-    "cases": "107,246,335",
-    "Total_death": "1,167,381"
+    "cases": "107,246,518",
+    "Total_death": "1,167,385"
   },
   {
     "country": "India",
@@ -1261,8 +2496,8 @@
   },
   {
     "country": "Brazil",
-    "cases": "37,639,324",
-    "Total_death": "703,399"
+    "cases": "37,653,547",
+    "Total_death": "703,673"
   },
   {
     "country": "Japan",
@@ -1356,8 +2591,8 @@
   },
   {
     "country": "Austria",
-    "cases": "6,080,088",
-    "Total_death": "22,523"
+    "cases": "6,080,092",
+    "Total_death": "22,526"
   },
   {
     "country": "Portugal",
@@ -1401,12 +2636,12 @@
   },
   {
     "country": "Canada",
-    "cases": "4,684,456",
-    "Total_death": "52,751"
+    "cases": "4,686,867",
+    "Total_death": "52,804"
   },
   {
     "country": "Czechia",
-    "cases": "4,642,538",
+    "cases": "4,642,537",
     "Total_death": "42,807"
   },
   {
@@ -1421,7 +2656,7 @@
   },
   {
     "country": "Philippines",
-    "cases": "4,159,310",
+    "cases": "4,159,815",
     "Total_death": "66,482"
   },
   {
@@ -1526,7 +2761,7 @@
   },
   {
     "country": "Lithuania",
-    "cases": "1,321,137",
+    "cases": "1,321,139",
     "Total_death": "9,691"
   },
   {
@@ -1621,7 +2856,7 @@
   },
   {
     "country": "Azerbaijan",
-    "cases": "831,894",
+    "cases": "831,896",
     "Total_death": "10,281"
   },
   {
@@ -1851,8 +3086,8 @@
   },
   {
     "country": "Jamaica",
-    "cases": "155,063",
-    "Total_death": "3,550"
+    "cases": "155,169",
+    "Total_death": "3,555"
   },
   {
     "country": "Cambodia",
@@ -2391,23 +3626,23 @@
   },
   {
     "country": "Total:",
-    "cases": "217,994,445",
+    "cases": "217,994,952",
     "Total_death": "1,547,349"
   },
   {
     "country": "Total:",
-    "cases": "126,901,555",
-    "Total_death": "1,636,274"
+    "cases": "126,904,255",
+    "Total_death": "1,636,336"
   },
   {
     "country": "Total:",
-    "cases": "249,601,482",
-    "Total_death": "2,064,712"
+    "cases": "249,601,487",
+    "Total_death": "2,064,715"
   },
   {
     "country": "Total:",
-    "cases": "68,783,950",
-    "Total_death": "1,356,866"
+    "cases": "68,798,173",
+    "Total_death": "1,357,140"
   },
   {
     "country": "Total:",
@@ -2426,1242 +3661,7 @@
   },
   {
     "country": "Total:",
-    "cases": "690,605,740",
-    "Total_death": "6,892,802"
-  },
-  {
-    "country": "Asia",
-    "cases": "217,985,511",
-    "Total_death": "1,547,282"
-  },
-  {
-    "country": "North America",
-    "cases": "126,899,926",
-    "Total_death": "1,636,262"
-  },
-  {
-    "country": "Europe",
-    "cases": "249,600,260",
-    "Total_death": "2,064,700"
-  },
-  {
-    "country": "South America",
-    "cases": "68,783,856",
-    "Total_death": "1,356,866"
-  },
-  {
-    "country": "Oceania",
-    "cases": "14,495,201",
-    "Total_death": "28,791"
-  },
-  {
-    "country": "Africa",
-    "cases": "12,827,150",
-    "Total_death": "258,791"
-  },
-  {
-    "country": "",
-    "cases": "721",
-    "Total_death": "15"
-  },
-  {
-    "country": "World",
-    "cases": "690,592,625",
-    "Total_death": "6,892,707"
-  },
-  {
-    "country": "China",
-    "cases": "503,302",
-    "Total_death": "5,272"
-  },
-  {
-    "country": "USA",
-    "cases": "107,245,229",
-    "Total_death": "1,167,373"
-  },
-  {
-    "country": "India",
-    "cases": "44,993,543",
-    "Total_death": "531,896"
-  },
-  {
-    "country": "France",
-    "cases": "40,124,619",
-    "Total_death": "167,548"
-  },
-  {
-    "country": "Germany",
-    "cases": "38,428,685",
-    "Total_death": "174,352"
-  },
-  {
-    "country": "Brazil",
-    "cases": "37,639,324",
-    "Total_death": "703,399"
-  },
-  {
-    "country": "Japan",
-    "cases": "33,803,572",
-    "Total_death": "74,694"
-  },
-  {
-    "country": "S. Korea",
-    "cases": "32,012,107",
-    "Total_death": "34,956"
-  },
-  {
-    "country": "Italy",
-    "cases": "25,887,444",
-    "Total_death": "190,706"
-  },
-  {
-    "country": "UK",
-    "cases": "24,618,436",
-    "Total_death": "226,278"
-  },
-  {
-    "country": "Russia",
-    "cases": "22,949,243",
-    "Total_death": "399,339"
-  },
-  {
-    "country": "Turkey",
-    "cases": "17,232,066",
-    "Total_death": "102,174"
-  },
-  {
-    "country": "Spain",
-    "cases": "13,905,048",
-    "Total_death": "121,622"
-  },
-  {
-    "country": "Australia",
-    "cases": "11,672,767",
-    "Total_death": "21,463"
-  },
-  {
-    "country": "Vietnam",
-    "cases": "11,619,322",
-    "Total_death": "43,206"
-  },
-  {
-    "country": "Taiwan",
-    "cases": "10,239,998",
-    "Total_death": "19,005"
-  },
-  {
-    "country": "Argentina",
-    "cases": "10,056,300",
-    "Total_death": "130,514"
-  },
-  {
-    "country": "Netherlands",
-    "cases": "8,610,372",
-    "Total_death": "22,992"
-  },
-  {
-    "country": "Mexico",
-    "cases": "7,630,020",
-    "Total_death": "334,272"
-  },
-  {
-    "country": "Iran",
-    "cases": "7,612,325",
-    "Total_death": "146,291"
-  },
-  {
-    "country": "Indonesia",
-    "cases": "6,811,128",
-    "Total_death": "161,844"
-  },
-  {
-    "country": "Poland",
-    "cases": "6,517,590",
-    "Total_death": "119,623"
-  },
-  {
-    "country": "Colombia",
-    "cases": "6,369,916",
-    "Total_death": "142,780"
-  },
-  {
-    "country": "Greece",
-    "cases": "6,095,350",
-    "Total_death": "37,052"
-  },
-  {
-    "country": "Austria",
-    "cases": "6,080,018",
-    "Total_death": "22,523"
-  },
-  {
-    "country": "Portugal",
-    "cases": "5,590,870",
-    "Total_death": "26,824"
-  },
-  {
-    "country": "Ukraine",
-    "cases": "5,557,995",
-    "Total_death": "112,418"
-  },
-  {
-    "country": "Chile",
-    "cases": "5,288,055",
-    "Total_death": "64,497"
-  },
-  {
-    "country": "Malaysia",
-    "cases": "5,112,019",
-    "Total_death": "37,118"
-  },
-  {
-    "country": "Israel",
-    "cases": "4,827,640",
-    "Total_death": "12,552"
-  },
-  {
-    "country": "Belgium",
-    "cases": "4,800,759",
-    "Total_death": "34,364"
-  },
-  {
-    "country": "DPRK",
-    "cases": "4,772,813",
-    "Total_death": "74"
-  },
-  {
-    "country": "Thailand",
-    "cases": "4,747,752",
-    "Total_death": "34,232"
-  },
-  {
-    "country": "Canada",
-    "cases": "4,684,456",
-    "Total_death": "52,751"
-  },
-  {
-    "country": "Czechia",
-    "cases": "4,642,538",
-    "Total_death": "42,807"
-  },
-  {
-    "country": "Peru",
-    "cases": "4,507,896",
-    "Total_death": "220,695"
-  },
-  {
-    "country": "Switzerland",
-    "cases": "4,406,609",
-    "Total_death": "14,452"
-  },
-  {
-    "country": "Philippines",
-    "cases": "4,159,310",
-    "Total_death": "66,482"
-  },
-  {
-    "country": "South Africa",
-    "cases": "4,076,463",
-    "Total_death": "102,595"
-  },
-  {
-    "country": "Romania",
-    "cases": "3,406,169",
-    "Total_death": "68,217"
-  },
-  {
-    "country": "Denmark",
-    "cases": "3,182,162",
-    "Total_death": "8,741"
-  },
-  {
-    "country": "Hong Kong",
-    "cases": "2,909,483",
-    "Total_death": "13,819"
-  },
-  {
-    "country": "Sweden",
-    "cases": "2,711,671",
-    "Total_death": "24,489"
-  },
-  {
-    "country": "Serbia",
-    "cases": "2,543,185",
-    "Total_death": "18,057"
-  },
-  {
-    "country": "Singapore",
-    "cases": "2,481,404",
-    "Total_death": "1,727"
-  },
-  {
-    "country": "Iraq",
-    "cases": "2,465,545",
-    "Total_death": "25,375"
-  },
-  {
-    "country": "New Zealand",
-    "cases": "2,404,376",
-    "Total_death": "4,473"
-  },
-  {
-    "country": "Hungary",
-    "cases": "2,203,082",
-    "Total_death": "48,879"
-  },
-  {
-    "country": "Bangladesh",
-    "cases": "2,040,681",
-    "Total_death": "29,452"
-  },
-  {
-    "country": "Slovakia",
-    "cases": "1,866,857",
-    "Total_death": "21,167"
-  },
-  {
-    "country": "Georgia",
-    "cases": "1,843,707",
-    "Total_death": "17,087"
-  },
-  {
-    "country": "Jordan",
-    "cases": "1,746,997",
-    "Total_death": "14,122"
-  },
-  {
-    "country": "Ireland",
-    "cases": "1,713,340",
-    "Total_death": "9,028"
-  },
-  {
-    "country": "Pakistan",
-    "cases": "1,581,106",
-    "Total_death": "30,660"
-  },
-  {
-    "country": "Norway",
-    "cases": "1,485,364",
-    "Total_death": "5,556"
-  },
-  {
-    "country": "Finland",
-    "cases": "1,481,587",
-    "Total_death": "9,886"
-  },
-  {
-    "country": "Kazakhstan",
-    "cases": "1,411,831",
-    "Total_death": "13,848"
-  },
-  {
-    "country": "Slovenia",
-    "cases": "1,344,183",
-    "Total_death": "7,100"
-  },
-  {
-    "country": "Lithuania",
-    "cases": "1,321,134",
-    "Total_death": "9,691"
-  },
-  {
-    "country": "Bulgaria",
-    "cases": "1,308,614",
-    "Total_death": "38,411"
-  },
-  {
-    "country": "Morocco",
-    "cases": "1,274,180",
-    "Total_death": "16,297"
-  },
-  {
-    "country": "Croatia",
-    "cases": "1,273,907",
-    "Total_death": "18,267"
-  },
-  {
-    "country": "Guatemala",
-    "cases": "1,257,244",
-    "Total_death": "20,205"
-  },
-  {
-    "country": "Lebanon",
-    "cases": "1,238,411",
-    "Total_death": "10,932"
-  },
-  {
-    "country": "Costa Rica",
-    "cases": "1,234,384",
-    "Total_death": "9,382"
-  },
-  {
-    "country": "Bolivia",
-    "cases": "1,201,597",
-    "Total_death": "22,387"
-  },
-  {
-    "country": "Tunisia",
-    "cases": "1,153,361",
-    "Total_death": "29,423"
-  },
-  {
-    "country": "Cuba",
-    "cases": "1,114,657",
-    "Total_death": "8,530"
-  },
-  {
-    "country": "UAE",
-    "cases": "1,067,030",
-    "Total_death": "2,349"
-  },
-  {
-    "country": "Ecuador",
-    "cases": "1,062,275",
-    "Total_death": "36,019"
-  },
-  {
-    "country": "Panama",
-    "cases": "1,042,631",
-    "Total_death": "8,634"
-  },
-  {
-    "country": "Uruguay",
-    "cases": "1,038,774",
-    "Total_death": "7,634"
-  },
-  {
-    "country": "Mongolia",
-    "cases": "1,010,034",
-    "Total_death": "2,179"
-  },
-  {
-    "country": "Nepal",
-    "cases": "1,003,361",
-    "Total_death": "12,031"
-  },
-  {
-    "country": "Belarus",
-    "cases": "994,037",
-    "Total_death": "7,118"
-  },
-  {
-    "country": "Latvia",
-    "cases": "978,074",
-    "Total_death": "6,377"
-  },
-  {
-    "country": "Saudi Arabia",
-    "cases": "841,469",
-    "Total_death": "9,646"
-  },
-  {
-    "country": "Azerbaijan",
-    "cases": "831,894",
-    "Total_death": "10,281"
-  },
-  {
-    "country": "Paraguay",
-    "cases": "811,204",
-    "Total_death": "19,961"
-  },
-  {
-    "country": "Bahrain",
-    "cases": "722,304",
-    "Total_death": "1,566"
-  },
-  {
-    "country": "Sri Lanka",
-    "cases": "672,527",
-    "Total_death": "16,877"
-  },
-  {
-    "country": "Kuwait",
-    "cases": "665,955",
-    "Total_death": "2,570"
-  },
-  {
-    "country": "Dominican Republic",
-    "cases": "661,596",
-    "Total_death": "4,384"
-  },
-  {
-    "country": "Cyprus",
-    "cases": "660,854",
-    "Total_death": "1,364"
-  },
-  {
-    "country": "Myanmar",
-    "cases": "639,740",
-    "Total_death": "19,494"
-  },
-  {
-    "country": "Palestine",
-    "cases": "621,008",
-    "Total_death": "5,404"
-  },
-  {
-    "country": "Moldova",
-    "cases": "620,656",
-    "Total_death": "12,123"
-  },
-  {
-    "country": "Estonia",
-    "cases": "619,148",
-    "Total_death": "3,001"
-  },
-  {
-    "country": "Venezuela",
-    "cases": "552,695",
-    "Total_death": "5,856"
-  },
-  {
-    "country": "Egypt",
-    "cases": "516,023",
-    "Total_death": "24,613"
-  },
-  {
-    "country": "Qatar",
-    "cases": "514,336",
-    "Total_death": "690"
-  },
-  {
-    "country": "Libya",
-    "cases": "507,264",
-    "Total_death": "6,437"
-  },
-  {
-    "country": "Ethiopia",
-    "cases": "500,920",
-    "Total_death": "7,574"
-  },
-  {
-    "country": "Réunion",
-    "cases": "486,588",
-    "Total_death": "921"
-  },
-  {
-    "country": "Honduras",
-    "cases": "472,619",
-    "Total_death": "11,116"
-  },
-  {
-    "country": "Armenia",
-    "cases": "449,213",
-    "Total_death": "8,750"
-  },
-  {
-    "country": "Bosnia and Herzegovina",
-    "cases": "403,030",
-    "Total_death": "16,348"
-  },
-  {
-    "country": "Oman",
-    "cases": "399,449",
-    "Total_death": "4,628"
-  },
-  {
-    "country": "North Macedonia",
-    "cases": "348,281",
-    "Total_death": "9,677"
-  },
-  {
-    "country": "Zambia",
-    "cases": "345,961",
-    "Total_death": "4,060"
-  },
-  {
-    "country": "Kenya",
-    "cases": "343,312",
-    "Total_death": "5,688"
-  },
-  {
-    "country": "Albania",
-    "cases": "334,726",
-    "Total_death": "3,602"
-  },
-  {
-    "country": "Botswana",
-    "cases": "329,953",
-    "Total_death": "2,801"
-  },
-  {
-    "country": "Luxembourg",
-    "cases": "319,959",
-    "Total_death": "1,232"
-  },
-  {
-    "country": "Brunei",
-    "cases": "308,777",
-    "Total_death": "225"
-  },
-  {
-    "country": "Montenegro",
-    "cases": "291,921",
-    "Total_death": "2,828"
-  },
-  {
-    "country": "Algeria",
-    "cases": "271,851",
-    "Total_death": "6,881"
-  },
-  {
-    "country": "Nigeria",
-    "cases": "266,675",
-    "Total_death": "3,155"
-  },
-  {
-    "country": "Zimbabwe",
-    "cases": "265,289",
-    "Total_death": "5,702"
-  },
-  {
-    "country": "Uzbekistan",
-    "cases": "253,662",
-    "Total_death": "1,637"
-  },
-  {
-    "country": "Mozambique",
-    "cases": "233,417",
-    "Total_death": "2,243"
-  },
-  {
-    "country": "Martinique",
-    "cases": "229,975",
-    "Total_death": "1,102"
-  },
-  {
-    "country": "Afghanistan",
-    "cases": "222,955",
-    "Total_death": "7,922"
-  },
-  {
-    "country": "Laos",
-    "cases": "218,367",
-    "Total_death": "758"
-  },
-  {
-    "country": "Iceland",
-    "cases": "209,191",
-    "Total_death": "229"
-  },
-  {
-    "country": "Kyrgyzstan",
-    "cases": "206,890",
-    "Total_death": "2,991"
-  },
-  {
-    "country": "Guadeloupe",
-    "cases": "202,836",
-    "Total_death": "1,017"
-  },
-  {
-    "country": "El Salvador",
-    "cases": "201,785",
-    "Total_death": "4,230"
-  },
-  {
-    "country": "Trinidad and Tobago",
-    "cases": "191,496",
-    "Total_death": "4,390"
-  },
-  {
-    "country": "Maldives",
-    "cases": "186,683",
-    "Total_death": "316"
-  },
-  {
-    "country": "Ghana",
-    "cases": "171,657",
-    "Total_death": "1,462"
-  },
-  {
-    "country": "Namibia",
-    "cases": "171,310",
-    "Total_death": "4,091"
-  },
-  {
-    "country": "Uganda",
-    "cases": "170,775",
-    "Total_death": "3,632"
-  },
-  {
-    "country": "Jamaica",
-    "cases": "155,063",
-    "Total_death": "3,550"
-  },
-  {
-    "country": "Cambodia",
-    "cases": "138,882",
-    "Total_death": "3,056"
-  },
-  {
-    "country": "Rwanda",
-    "cases": "133,194",
-    "Total_death": "1,468"
-  },
-  {
-    "country": "Cameroon",
-    "cases": "125,087",
-    "Total_death": "1,972"
-  },
-  {
-    "country": "Malta",
-    "cases": "118,858",
-    "Total_death": "840"
-  },
-  {
-    "country": "Barbados",
-    "cases": "107,794",
-    "Total_death": "593"
-  },
-  {
-    "country": "Angola",
-    "cases": "105,384",
-    "Total_death": "1,934"
-  },
-  {
-    "country": "Channel Islands",
-    "cases": "101,717",
-    "Total_death": "228"
-  },
-  {
-    "country": "French Guiana",
-    "cases": "98,041",
-    "Total_death": "420"
-  },
-  {
-    "country": "DRC",
-    "cases": "96,890",
-    "Total_death": "1,467"
-  },
-  {
-    "country": "Senegal",
-    "cases": "88,999",
-    "Total_death": "1,971"
-  },
-  {
-    "country": "Malawi",
-    "cases": "88,728",
-    "Total_death": "2,686"
-  },
-  {
-    "country": "Ivory Coast",
-    "cases": "88,331",
-    "Total_death": "835"
-  },
-  {
-    "country": "Suriname",
-    "cases": "82,563",
-    "Total_death": "1,406"
-  },
-  {
-    "country": "New Caledonia",
-    "cases": "79,922",
-    "Total_death": "314"
-  },
-  {
-    "country": "French Polynesia",
-    "cases": "78,596",
-    "Total_death": "649"
-  },
-  {
-    "country": "Eswatini",
-    "cases": "74,670",
-    "Total_death": "1,425"
-  },
-  {
-    "country": "Guyana",
-    "cases": "73,286",
-    "Total_death": "1,298"
-  },
-  {
-    "country": "Belize",
-    "cases": "70,782",
-    "Total_death": "688"
-  },
-  {
-    "country": "Fiji",
-    "cases": "69,072",
-    "Total_death": "885"
-  },
-  {
-    "country": "Madagascar",
-    "cases": "68,289",
-    "Total_death": "1,425"
-  },
-  {
-    "country": "Cabo Verde",
-    "cases": "64,015",
-    "Total_death": "414"
-  },
-  {
-    "country": "Sudan",
-    "cases": "63,993",
-    "Total_death": "5,046"
-  },
-  {
-    "country": "Mauritania",
-    "cases": "63,715",
-    "Total_death": "997"
-  },
-  {
-    "country": "Bhutan",
-    "cases": "62,672",
-    "Total_death": "21"
-  },
-  {
-    "country": "Syria",
-    "cases": "57,652",
-    "Total_death": "3,165"
-  },
-  {
-    "country": "Burundi",
-    "cases": "53,954",
-    "Total_death": "38"
-  },
-  {
-    "country": "Seychelles",
-    "cases": "50,937",
-    "Total_death": "172"
-  },
-  {
-    "country": "Gabon",
-    "cases": "48,992",
-    "Total_death": "307"
-  },
-  {
-    "country": "Andorra",
-    "cases": "48,015",
-    "Total_death": "165"
-  },
-  {
-    "country": "Papua New Guinea",
-    "cases": "46,864",
-    "Total_death": "670"
-  },
-  {
-    "country": "Curaçao",
-    "cases": "45,986",
-    "Total_death": "295"
-  },
-  {
-    "country": "Aruba",
-    "cases": "44,200",
-    "Total_death": "236"
-  },
-  {
-    "country": "Tanzania",
-    "cases": "43,078",
-    "Total_death": "846"
-  },
-  {
-    "country": "Mauritius",
-    "cases": "42,642",
-    "Total_death": "1,051"
-  },
-  {
-    "country": "Mayotte",
-    "cases": "42,027",
-    "Total_death": "188"
-  },
-  {
-    "country": "Togo",
-    "cases": "39,503",
-    "Total_death": "290"
-  },
-  {
-    "country": "Guinea",
-    "cases": "38,563",
-    "Total_death": "468"
-  },
-  {
-    "country": "Bahamas",
-    "cases": "38,084",
-    "Total_death": "844"
-  },
-  {
-    "country": "Isle of Man",
-    "cases": "38,008",
-    "Total_death": "116"
-  },
-  {
-    "country": "Lesotho",
-    "cases": "34,790",
-    "Total_death": "723"
-  },
-  {
-    "country": "Faeroe Islands",
-    "cases": "34,658",
-    "Total_death": "28"
-  },
-  {
-    "country": "Haiti",
-    "cases": "34,265",
-    "Total_death": "860"
-  },
-  {
-    "country": "Mali",
-    "cases": "33,151",
-    "Total_death": "743"
-  },
-  {
-    "country": "Cayman Islands",
-    "cases": "31,472",
-    "Total_death": "37"
-  },
-  {
-    "country": "Saint Lucia",
-    "cases": "30,052",
-    "Total_death": "409"
-  },
-  {
-    "country": "Benin",
-    "cases": "28,014",
-    "Total_death": "163"
-  },
-  {
-    "country": "Somalia",
-    "cases": "27,334",
-    "Total_death": "1,361"
-  },
-  {
-    "country": "Micronesia",
-    "cases": "26,459",
-    "Total_death": "65"
-  },
-  {
-    "country": "Congo",
-    "cases": "25,375",
-    "Total_death": "386"
-  },
-  {
-    "country": "Solomon Islands",
-    "cases": "24,575",
-    "Total_death": "153"
-  },
-  {
-    "country": "San Marino",
-    "cases": "24,311",
-    "Total_death": "125"
-  },
-  {
-    "country": "Timor-Leste",
-    "cases": "23,456",
-    "Total_death": "138"
-  },
-  {
-    "country": "Burkina Faso",
-    "cases": "22,056",
-    "Total_death": "396"
-  },
-  {
-    "country": "Liechtenstein",
-    "cases": "21,446",
-    "Total_death": "94"
-  },
-  {
-    "country": "Gibraltar",
-    "cases": "20,550",
-    "Total_death": "113"
-  },
-  {
-    "country": "Grenada",
-    "cases": "19,693",
-    "Total_death": "238"
-  },
-  {
-    "country": "Bermuda",
-    "cases": "18,860",
-    "Total_death": "165"
-  },
-  {
-    "country": "Nicaragua",
-    "cases": "18,491",
-    "Total_death": "225"
-  },
-  {
-    "country": "South Sudan",
-    "cases": "18,368",
-    "Total_death": "138"
-  },
-  {
-    "country": "Tajikistan",
-    "cases": "17,786",
-    "Total_death": "125"
-  },
-  {
-    "country": "Equatorial Guinea",
-    "cases": "17,229",
-    "Total_death": "183"
-  },
-  {
-    "country": "Tonga",
-    "cases": "16,817",
-    "Total_death": "13"
-  },
-  {
-    "country": "Monaco",
-    "cases": "16,814",
-    "Total_death": "67"
-  },
-  {
-    "country": "Samoa",
-    "cases": "16,763",
-    "Total_death": "31"
-  },
-  {
-    "country": "Marshall Islands",
-    "cases": "16,098",
-    "Total_death": "17"
-  },
-  {
-    "country": "Dominica",
-    "cases": "15,760",
-    "Total_death": "74"
-  },
-  {
-    "country": "Djibouti",
-    "cases": "15,690",
-    "Total_death": "189"
-  },
-  {
-    "country": "CAR",
-    "cases": "15,368",
-    "Total_death": "113"
-  },
-  {
-    "country": "Gambia",
-    "cases": "12,626",
-    "Total_death": "372"
-  },
-  {
-    "country": "Saint Martin",
-    "cases": "12,303",
-    "Total_death": "63"
-  },
-  {
-    "country": "Vanuatu",
-    "cases": "12,019",
-    "Total_death": "14"
-  },
-  {
-    "country": "Greenland",
-    "cases": "11,971",
-    "Total_death": "21"
-  },
-  {
-    "country": "Yemen",
-    "cases": "11,945",
-    "Total_death": "2,159"
-  },
-  {
-    "country": "Caribbean Netherlands",
-    "cases": "11,682",
-    "Total_death": "38"
-  },
-  {
-    "country": "Sint Maarten",
-    "cases": "11,051",
-    "Total_death": "92"
-  },
-  {
-    "country": "Macao",
-    "cases": "10,548",
-    "Total_death": "122"
-  },
-  {
-    "country": "Eritrea",
-    "cases": "10,189",
-    "Total_death": "103"
-  },
-  {
-    "country": "Niger",
-    "cases": "9,931",
-    "Total_death": "312"
-  },
-  {
-    "country": "St. Vincent Grenadines",
-    "cases": "9,631",
-    "Total_death": "124"
-  },
-  {
-    "country": "Guinea-Bissau",
-    "cases": "9,614",
-    "Total_death": "177"
-  },
-  {
-    "country": "Comoros",
-    "cases": "9,109",
-    "Total_death": "161"
-  },
-  {
-    "country": "Antigua and Barbuda",
-    "cases": "9,106",
-    "Total_death": "146"
-  },
-  {
-    "country": "Liberia",
-    "cases": "8,090",
-    "Total_death": "295"
-  },
-  {
-    "country": "Sierra Leone",
-    "cases": "7,762",
-    "Total_death": "126"
-  },
-  {
-    "country": "Chad",
-    "cases": "7,701",
-    "Total_death": "194"
-  },
-  {
-    "country": "British Virgin Islands",
-    "cases": "7,305",
-    "Total_death": "64"
-  },
-  {
-    "country": "Cook Islands",
-    "cases": "7,142",
-    "Total_death": "2"
-  },
-  {
-    "country": "Saint Kitts and Nevis",
-    "cases": "6,606",
-    "Total_death": "48"
-  },
-  {
-    "country": "Turks and Caicos",
-    "cases": "6,588",
-    "Total_death": "38"
-  },
-  {
-    "country": "Sao Tome and Principe",
-    "cases": "6,587",
-    "Total_death": "80"
-  },
-  {
-    "country": "Palau",
-    "cases": "6,015",
-    "Total_death": "9"
-  },
-  {
-    "country": "St. Barth",
-    "cases": "5,494",
-    "Total_death": "6"
-  },
-  {
-    "country": "Nauru",
-    "cases": "5,393",
-    "Total_death": "1"
-  },
-  {
-    "country": "Kiribati",
-    "cases": "5,037",
-    "Total_death": "24"
-  },
-  {
-    "country": "Anguilla",
-    "cases": "3,904",
-    "Total_death": "12"
-  },
-  {
-    "country": "Wallis and Futuna",
-    "cases": "3,550",
-    "Total_death": "8"
-  },
-  {
-    "country": "Saint Pierre Miquelon",
-    "cases": "3,452",
-    "Total_death": "2"
-  },
-  {
-    "country": "Tuvalu",
-    "cases": "2,911",
-    "Total_death": ""
-  },
-  {
-    "country": "Saint Helena",
-    "cases": "2,166",
-    "Total_death": ""
-  },
-  {
-    "country": "Falkland Islands",
-    "cases": "1,930",
-    "Total_death": ""
-  },
-  {
-    "country": "Montserrat",
-    "cases": "1,403",
-    "Total_death": "8"
-  },
-  {
-    "country": "Niue",
-    "cases": "820",
-    "Total_death": ""
-  },
-  {
-    "country": "Diamond Princess",
-    "cases": "712",
-    "Total_death": "13"
-  },
-  {
-    "country": "Vatican City",
-    "cases": "29",
-    "Total_death": ""
-  },
-  {
-    "country": "Western Sahara",
-    "cases": "10",
-    "Total_death": "1"
-  },
-  {
-    "country": "MS Zaandam",
-    "cases": "9",
-    "Total_death": "2"
-  },
-  {
-    "country": "Tokelau",
-    "cases": "5",
-    "Total_death": ""
-  },
-  {
-    "country": "Total:",
-    "cases": "217,985,511",
-    "Total_death": "1,547,282"
-  },
-  {
-    "country": "Total:",
-    "cases": "126,899,926",
-    "Total_death": "1,636,262"
-  },
-  {
-    "country": "Total:",
-    "cases": "249,600,260",
-    "Total_death": "2,064,700"
-  },
-  {
-    "country": "Total:",
-    "cases": "68,783,856",
-    "Total_death": "1,356,866"
-  },
-  {
-    "country": "Total:",
-    "cases": "14,495,201",
-    "Total_death": "28,791"
-  },
-  {
-    "country": "Total:",
-    "cases": "12,827,150",
-    "Total_death": "258,791"
-  },
-  {
-    "country": "Total:",
-    "cases": "721",
-    "Total_death": "15"
-  },
-  {
-    "country": "Total:",
-    "cases": "690,592,625",
-    "Total_death": "6,892,707"
+    "cases": "690,623,175",
+    "Total_death": "6,893,141"
   }
 ]
