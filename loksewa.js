@@ -10,14 +10,14 @@ class Loksewa extends Scrapper{
             let data=[];
             const $ =cheerio.load(html);
             $('.table td').each((i,el) =>{
-                const Suchana = $(el).text().trim();
+                const title = $(el).text().trim();
                 const link =$(el).find('a').attr("href");
                 const image = $(el).find('img').attr('src');
-                const title = $(el).find('.uk-margin-large-bottom').attr('h1');
-                
-
-
-                data.push({Suchana,link,image, title});
+                const topic ="Lokesewa";
+                const topics =$(el).text(topic);
+                const category ="notice";
+                const categorys=$(el).text(category)
+                data.push({ title, image, link, topic, category});
             });
             this.save(data);
         })
@@ -28,6 +28,5 @@ class Loksewa extends Scrapper{
 }
 
 const loksewa=new Loksewa();
-
 loksewa.saveData();
 
