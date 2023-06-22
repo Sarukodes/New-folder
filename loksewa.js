@@ -12,7 +12,7 @@ class Loksewa extends Scrapper{
             $('.table td').each((i,el) =>{
                 const title = $(el).text().trim();
                 const link =$(el).find('a').attr("href");
-                const image = $(el).find('img').attr('src');
+                const image = '';
                 const topic ="Lokesewa";
                 const topics =$(el).text(topic);
                 const category ="notice";
