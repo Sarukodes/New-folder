@@ -2,11 +2,7 @@ const fs = require('fs');
 const axios = require('axios');
 class Data{
     name="";
-    title="";
     URL="";
-    image="";
-    topic="";
-    category="";
     async getData(){
         try{
             const data = await axios.get(this.URL);
