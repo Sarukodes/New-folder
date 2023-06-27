@@ -19,7 +19,7 @@ class Bharatpur extends Data{
                     link:'https://bharatpurmun.gov.np/'+link,
                     image:" ",
                     topic:"Bharatpur ",
-                    category:"tender_notice"
+                    category:"notice"
                 });
             });
 
