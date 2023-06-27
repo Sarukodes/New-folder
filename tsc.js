@@ -3,7 +3,7 @@ const Data = require("./data");
 const { default: axios } = require("axios");
 
 class Tcs extends Data {
-  name = "tsc_natijaharu";
+  name = "tsc_natijaharu"; 
   URL = "https://tsc.gov.np/natijaharu";
 
   async fetchInnerPage(url) {
